@@ -1,4 +1,10 @@
-authors = ["Benjamin DalFavero <dalfaver@msu.edu>"]
-uuid = "1466358d-f2bd-4d99-8061-90234b6a9597"
 name = "PlusOne"
+uuid = "1466358d-f2bd-4d99-8061-90234b6a9597"
+authors = ["Benjamin DalFavero <dalfaver@msu.edu>"]
 version = "0.0.1"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
